@@ -3,3 +3,5 @@ namespace :assets do
     sh 'middleman build'
   end
 end
+
+
